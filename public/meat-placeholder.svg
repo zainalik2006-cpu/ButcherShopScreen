@@ -1,0 +1,7 @@
+<svg width="800" height="500" viewBox="0 0 800 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="500" fill="#1C2B1F"/>
+  <rect x="36" y="36" width="728" height="428" rx="20" fill="#253D2B" stroke="#8F1F1D" stroke-width="8"/>
+  <path d="M220 310C220 250 290 210 360 210C430 210 520 240 540 290C560 340 510 380 430 380C350 380 220 360 220 310Z" fill="#8F1F1D"/>
+  <circle cx="360" cy="280" r="22" fill="#E4BE65"/>
+  <text x="400" y="110" fill="#E4BE65" font-family="Arial" font-size="48" text-anchor="middle">FRESH HALAL CUTS</text>
+</svg>
